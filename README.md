@@ -1,5 +1,7 @@
 # vue-calculator
 
+Exercise to begin learning Vue.Js.
+
 ## Project setup
 ```
 npm install
@@ -19,3 +21,7 @@ npm run build
 ```
 npm run lint
 ```
+
+## Source
+
+[Build a Calculator with Vue.js](https://youtu.be/m1_ih43p24s)
