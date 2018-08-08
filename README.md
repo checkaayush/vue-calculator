@@ -2,6 +2,9 @@
 
 Exercise to begin learning Vue.Js.
 
+![Calculator](./public/calculator.png)
+
+
 ## Project setup
 ```
 npm install
