@@ -1,6 +1,6 @@
 # vue-calculator
 
-Exercise to begin learning Vue.Js.
+Exercise to begin learning Vue.js.
 
 ![Calculator](./public/calculator.png)
 
